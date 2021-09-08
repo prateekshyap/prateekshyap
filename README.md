@@ -33,7 +33,11 @@ class Me
 
 ````
 
-<p>Thanks for visiting</p>
+<p>🎹Sometimes Musical</p>
+
+<p>🤔Partially Introvert</p>
+
+<p>😄Thanks for visiting</p>
 
 <a href="https://www.linkedin.com/in/prateekshya-priyadarshini/">Check out Linkedin</a>
 
