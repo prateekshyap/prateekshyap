@@ -1,4 +1,43 @@
-### Hi there 👋
+````java
+
+import Random.SoftwareEngineer;
+
+class JustAnotherCSGrad
+{
+    String name, isA, job;
+    JustAnotherCSGrad()
+    {
+        this.name = "Prateekshya";
+        this.isA = "student";
+        this.job = "exploring";
+    }
+    public String toString()
+    {
+        return this.name+"("+this.isA+") is "+this.job+" ...";
+    }
+    void sayHello()
+    {
+        System.out.println("Hello, world! 👋");
+    }
+}
+
+class Me
+{
+    public static void main(String[] args)
+    {
+        JustAnotherCSGrad me = new JustAnotherCSGrad();
+        me.sayHello();
+        System.out.println(me.toString());
+    }
+}
+
+````
+
+<p>Thanks for visiting</p>
+
+<a href="https://www.linkedin.com/in/prateekshya-priyadarshini/">Check out Linkedin</a>
+
+
 
 <!--
 **prateekshyap/prateekshyap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
