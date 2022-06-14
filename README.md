@@ -35,7 +35,8 @@ class Me
 
 <p>🎹Sometimes Musical</p>
 <p>🤔Partially Introvert</p>
-<p>⚡Fun fact : __________</p>
+<p>💻Speaking Java</p>
+<p>⚡Fun fact: Five Problems, One Solution, Java</p>
 <p>😄Thanks for visiting</p>
 
 <a href="https://www.linkedin.com/in/prateekshya-priyadarshini/">Check out Linkedin</a>
