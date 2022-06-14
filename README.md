@@ -33,7 +33,7 @@ class Me
 
 ````
 
-<p>😄Early 2000's kid</p>
+<p>👶Early 2000's kid</p>
 <p>🎹Sometimes Musical</p>
 <p>🤔Partially Introvert</p>
 <p>💻Speaking Java</p>
