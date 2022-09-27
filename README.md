@@ -38,6 +38,7 @@ class Me
 <p>🤔Partially Introvert</p>
 <p>💻Speaking Java</p>
 <p>⚡Fun fact: Five Problems, One Solution, Java</p>
+<p>💻List of Projects: <a href="https://gist.github.com/prateekshyap/bbf5a6b3d0ec2ef1a40076289dd4d8dc">check</a></p>
 <p>😄Thanks for visiting</p>
 
 <a href="https://www.linkedin.com/in/prateekshya-priyadarshini/">Check out Linkedin</a>
