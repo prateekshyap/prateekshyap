@@ -8,7 +8,7 @@ class JustAnotherCSGrad
     JustAnotherCSGrad()
     {
         this.name = "Prateekshya";
-        this.isA = "student";
+        this.isA = "Software Engineer";
         this.job = "exploring";
     }
     public String toString()
