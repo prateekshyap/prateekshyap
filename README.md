@@ -34,14 +34,13 @@ class Me
 ````
 
 <p>:baby: Early 2000's kid</p>
-<p>Still figuring out :musical_keyboard: and :dancer:</p>
+<p>Still figuring out :dancer: and :musical_keyboard:</p>
 <p>:thinking: Partially Introvert</p>
-<p>:computer: Speaking Java</p>
-<p>:joy: Fun fact: Five Problems, One Solution, Java</p>
 <p>:computer: List of Projects: <a href="https://gist.github.com/prateekshyap/bbf5a6b3d0ec2ef1a40076289dd4d8dc">check</a></p>
+<p>Check out <a href="https://www.linkedin.com/in/prateekshya-priyadarshini/">Linkedin</a></p>
 <p>:smile: Thanks for visiting</p>
 
-<a href="https://www.linkedin.com/in/prateekshya-priyadarshini/">Check out Linkedin</a>
+
 
 
 
